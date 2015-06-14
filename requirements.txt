@@ -1,0 +1,7 @@
+Django==1.7.7
+dj-database-url==0.3.0
+dj-static==0.0.6
+django-widget-tweaks
+djangorestframework
+markdown
+django-filter
